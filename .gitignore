@@ -1,0 +1,16 @@
+#react-app
+# node.js
+react-app/node_modules/
+react-app/npm-debug.log
+react-app/yarn-error.log
+react-app/package-lock.json
+
+#postapp
+postApp/__pycache__
+postApp/migrations
+
+#media
+/media
+
+#infogram
+infogram/__pycache__
